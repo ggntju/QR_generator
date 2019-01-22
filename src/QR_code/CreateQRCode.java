@@ -13,7 +13,12 @@ import java.util.*;
 public class CreateQRCode {
 
     public static void main(String[] args) {
-
+        /**
+         * @param width defines the QR code picture width
+         * @param height defines the QR code picture height
+         * @param format defines the file format of the picture
+         * @param content defines the content of the QR code
+         */
         // Fig params
         int width = 300;
         int height = 300;
