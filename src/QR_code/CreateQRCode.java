@@ -24,7 +24,7 @@ public class CreateQRCode {
         int height = 300;
 
         String format = "png";
-        String content = "my first QR code";
+        String content = "";
 
         // QR params
         HashMap hints = new HashMap();
